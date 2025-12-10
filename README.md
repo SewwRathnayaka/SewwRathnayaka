@@ -25,6 +25,9 @@ I'm focused on building real-world applications while continuously improving my 
 
 ## 📊 GitHub Stats & Activity
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SewwRathnayaka&theme=tokyonight)
+
+
 ✅ **453 Contributions (2025)**  
 🔥 **17-day longest contribution streak**  
 💬 **114 Pull Requests merged**  
