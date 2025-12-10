@@ -40,33 +40,17 @@ I'm focused on building real-world applications while continuously improving my 
 
 ---
 
-## 🚀 Notable Repositories
+## 🚀 Deployed Projects
 
-### 🔹 FED-FRONTEND (Public)
-Frontend application focusing on clean UI and modern JavaScript practices.  
-**Tech:** JavaScript, React
+### 🔹 E-Commerce Website : MEBIUS
+A scalable e-commerce platform designed to provide a seamless shopping experience. Built using React, Node.js, Express, and MongoDB, it features dynamic product filtering, a secure shopping cart, user authentication, and seamless payment integration via Stripe. The platform ensures efficient backend operations with RESTful APIs and optimized database management, delivering a fast, user-friendly, and accessible online marketplace.
 
-### 🔹 FED-BACKEND (Public)
-Backend services built with strong type safety and scalable architecture.  
-**Tech:** TypeScript, Node.js, Express
+- https://fed-storefront-frontend-sewwandi.netlify.app
 
-### 🔹 Z-Score Uni Finder (ML Project)
-Machine learning–based university selection tool using Z-score analysis.  
-**Tech:** JavaScript, Machine Learning
+### 🔹 Handyman Service Application : FIXFINDER
+An innovative platform designed to meet the growing demand for reliable handyman services in Sri Lanka. This is a full-stack handyman marketplace connecting clients with skilled service providers. Built with React, TypeScript, Vite, and Tailwind CSS on the frontend and Node.js,Express, and MongoDB on the backend, it delivers authenticated client and handyman dashboards, rich service discovery, and end-to-end booking workflows. The platform supports real-time updates and chat, integrated voice calling through Twilio, secure Stripe-powered payments, and profile management, all orchestrated through RESTful APIs and modular, maintainable server architecture to ensure a responsive, reliable experience for every client request.
 
-### 🔹 BookStore
-Core programming and data handling concepts.  
-**Tech:** C++
-
-### 🔹 Quote App
-Simple application demonstrating logic and UI basics.  
-**Tech:** C++
-
-### 🔹 Todo App
-Task management app focused on productivity fundamentals.  
-**Tech:** JavaScript
-
----
+- https://fix-frontend.netlify.app
 
 ## 🌐 Connect With Me
 
